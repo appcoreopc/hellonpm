@@ -1,0 +1,19 @@
+{
+  "name": "hellonpm",
+  "version": "1.0.0",
+  "description": "hello app jeremy woo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appcoreopc/hellonpm.git"
+  },
+  "author": "jeremy woo <kepung@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appcoreopc/hellonpm/issues"
+  },
+  "homepage": "https://github.com/appcoreopc/hellonpm#readme"
+}
